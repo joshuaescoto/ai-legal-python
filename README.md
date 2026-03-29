@@ -1,1 +1,1 @@
-AI and machine learning legal industry example python scripts. 
+AI and machine learning legal industry example python code. 
